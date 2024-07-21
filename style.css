@@ -1,0 +1,21 @@
+body{
+    background-color: #23343e;
+}
+.loginSystem{
+    background-color: #24353f;
+}
+.loginSystem h3{
+    color: #17a2b8;
+}
+.SmartloginSystem h3{
+    color: #17a2b8;
+
+}
+.loginSystem h6 span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.SmartloginSystem h6 span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
